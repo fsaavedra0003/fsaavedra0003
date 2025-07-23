@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - 🌐 [LinkedIn](https://linkedin.com/in/your-profile)
 - 🧠 [Hugging Face](https://huggingface.co/your-profile)
 - 🗂️ [Kaggle](https://kaggle.com/your-profile)
-- 📬 Email: your.email@example.com
+- 📬 Email: fsaavedra003@gmail.com
 
 ---
 
