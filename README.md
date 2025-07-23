@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 📍  | Open to Remote / Hybrid AI & Data Engineering roles
 
 ---
-
 ## 🛠️ Tech Stack
-
 **Languages:** Python, SQL, Java, Scala  
 **Big Data:** Spark, Hadoop, Kafka, Airflow, Flink  
 **Databases:** PostgreSQL, MongoDB, Cassandra, ClickHouse  
@@ -33,23 +31,11 @@ Here are some ideas to get you started:
 **ML & AI:** Hugging Face 🤗, Scikit-learn, LangChain, OpenAI, XGBoost, TensorFlow  
 **MLOps:** MLflow, Docker, Kubernetes, FastAPI  
 **Tools:** Git, VS Code, Jupyter, dbt, Tableau
-
----
-
-
-## 📄 Recent Highlights
-
-- 🏆 Completed advanced NLP and LangChain projects integrating real-time APIs  
-- 🧠 Designed end-to-end MLOps pipelines for production-ready ML models  
-- 🔬 Exploring Agentic AI systems (Auto-GPT, BabyAGI, CrewAI)
-
 ---
 
 ## 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🧠 [Hugging Face](https://huggingface.co/your-profile)
-- 🗂️ [Kaggle](https://kaggle.com/your-profile)
 - 📬 Email: fsaavedra003@gmail.com
 
 ---
