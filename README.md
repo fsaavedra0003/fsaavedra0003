@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🎓 Master's in Computer Science (AI & Big Data) 
 💼 8+ years of experience in Big Data Engineering  
 🌍 Currently exploring AI Agentic Systems, MLOps, and Applied ML  
-📍 Based in Europe | Open to Remote / Hybrid AI & Data Engineering roles
+📍  | Open to Remote / Hybrid AI & Data Engineering roles
 
 ---
 
