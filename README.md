@@ -36,25 +36,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎯 AI Accent Detector (Wav2Vec2 + Hugging Face)
-> Real-time accent classification from audio using a fine-tuned transformer model.  
-[🔗 View Repo](https://github.com/your-username/ai-accent-detector)
-
-### 📊 Crypto Portfolio Tracker & Sentiment Dashboard
-> Live cryptocurrency tracker using CoinGecko API + sentiment analysis via Hugging Face.  
-[🔗 View Repo](https://github.com/your-username/crypto-dashboard)
-
-### 🔍 RAG Agent with LangChain & FAISS
-> Retrieval-Augmented Generation agent using OpenAI embeddings and LangChain.  
-[🔗 View Repo](https://github.com/your-username/langchain-rag-agent)
-
-### 📈 Spotify Genre Trend Analysis
-> Data pipeline & visualization of the most popular Spotify genres in recent years.  
-[🔗 View Repo](https://github.com/your-username/spotify-genre-trends)
-
----
 
 ## 📄 Recent Highlights
 
