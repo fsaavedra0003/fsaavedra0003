@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ---
 ## 🛠️ Tech Stack
+
 **Languages:** Python, SQL, Java, Scala  
 **Big Data:** Spark, Hadoop, Kafka, Airflow, Flink  
 **Databases:** PostgreSQL, MongoDB, Cassandra, ClickHouse  
