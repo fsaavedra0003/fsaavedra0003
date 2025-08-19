@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/francisco-saavedra003/)
 - 📬 Email: fsaavedra003@gmail.com
 
 ---
