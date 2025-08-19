@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 ![Header](./github-header-banner.png)
 
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Francisco
 
 🎓 Master's in Computer Science (AI & Big Data) 
 💼 8+ years of experience in Big Data Engineering  
