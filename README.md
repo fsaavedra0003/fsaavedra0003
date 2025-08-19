@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Header](./your-header-image-name.png)
+![Header](./github-header-banner.png)
 
 <!--
 **fsaavedra0003/fsaavedra0003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
