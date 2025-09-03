@@ -80,24 +80,6 @@ Here are some ideas to get you started:
 - **[AI Trading Bot](https://github.com/fsaavedra0003/Agentic-AI-Trading-Bot-with-LLM-reasoning-sentiment-analysis)**  
   🧑‍💻 Agentic trading system with LLM reasoning, sentiment analysis, and backtesting dashboard  
 
-- **[License Plate Detector (YOLOv8)](https://github.com/fsaavedra0003/License-Plate-Detector-with-YOLO)**  
-  📷 Detects license plates, stores cropped images in Postgres, and preps them for OCR  
-
-- **[Document QA with LangChain](https://github.com/fsaavedra0003/Document-question-answering-with-LangChain)**  
-  📚 Retrieval-augmented QA over PDFs with Pinecone + Streamlit  
-
-- **[Semantic Search with Vector DBs](https://github.com/fsaavedra0003/Semantic-search-with-vector-database)**  
-  🔎 Embedding-based semantic search using Milvus  
-
-- **[Speech-to-Text STT](https://github.com/fsaavedra0003/Speech-to-text-STT)**  
-  🎤 OpenAI Whisper-based pipeline for multilingual speech transcription  
-
----
-
-## 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/francisco-saavedra-ai/)  
-- 📧 [Email](mailto:your.email@example.com)  
-- 🐙 [GitHub Projects](https://github.com/fsaavedra0003?tab=repositories)  
 
 ---
 
