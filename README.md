@@ -26,10 +26,11 @@ Here are some ideas to get you started:
 ---
 
 ## 🚀 About Me
-- 🧠 I build **agentic AI workflows** with **LangChain, LangGraph, and Hugging Face**  
-- 📊 Skilled in **Big Data engineering** (Spark, Airflow, SQL, Azure/GCP/AWS)  
-- ⚙️ Strong in **MLOps pipelines** with Docker, CI/CD, and model monitoring  
-- 📚 Passion for **transformer-based models, semantic search, and applied NLP**  
+- 🤖 I specialize in **AI/ML engineering**, with a focus on **LLMs, agentic systems, and RAG pipelines**  
+- 🧠 Experienced in building **end-to-end ML workflows** — from data preprocessing and feature engineering to model training, evaluation, and deployment  
+- 📚 Passionate about **transformer-based models, semantic search, and applied NLP** using Hugging Face, OpenAI, and LangChain  
+- ⚙️ Skilled in **MLOps for production AI** (Docker, CI/CD, monitoring, and scalable serving)  
+- 🔬 Recent MSc in **Computer Science (AI & Big Data)** — thesis on integrating IoT sensor data with LLMs for real-time intelligence  
 
 
 ---
